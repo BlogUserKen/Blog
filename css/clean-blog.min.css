@@ -40,7 +40,7 @@ a img:focus,a img:hover {
 
 blockquote {
     font-style: italic;
-    color: #ff8534;
+    color: #19bc9c;
 }
 
 .section-heading {
@@ -95,7 +95,7 @@ body {
 
 #mainNav .navbar-brand {
     font-weight: 800;
-    color: #ff8534;
+    color: #19bc9c;
 }
 
 #mainNav .navbar-toggler {
@@ -103,7 +103,7 @@ body {
     font-weight: 800;
     padding: 13px;
     text-transform: uppercase;
-    color: #ff8534;
+    color: #19bc9c;
 }
 
 #mainNav .navbar-nav>li.nav-item>a {
@@ -189,7 +189,7 @@ body {
 header.masthead {
     margin-bottom: 50px;
     background: no-repeat center center;
-    background-color: #ff8534;
+    background-color: #19bc9c;
     background-attachment: scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -293,7 +293,7 @@ header.masthead .post-heading .meta a {
     font-size: 18px;
     font-style: italic;
     margin-top: 0;
-    color: #ff8534
+    color: #19bc9c;
 }
 
 .post-preview>.post-meta>a {
@@ -334,7 +334,7 @@ header.masthead .post-heading .meta a {
 }
 
 .floating-label-form-group input::-webkit-input-placeholder,.floating-label-form-group textarea::-webkit-input-placeholder {
-    color: #ff8534;
+    color: ##19bc9c;
     font-family: Lora,'Times New Roman',serif
 }
 
@@ -451,4 +451,6 @@ footer .copyright {
     border: 1px solid #0085a1;
     background-color: #0085a1
 }
+
+
 
