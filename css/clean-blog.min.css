@@ -40,7 +40,7 @@ a img:focus,a img:hover {
 
 blockquote {
     font-style: italic;
-    color: #ff8534
+    color: #ff8534;
 }
 
 .section-heading {
@@ -95,7 +95,7 @@ body {
 
 #mainNav .navbar-brand {
     font-weight: 800;
-    color: #ff8534
+    color: #ff8534;
 }
 
 #mainNav .navbar-toggler {
@@ -103,7 +103,7 @@ body {
     font-weight: 800;
     padding: 13px;
     text-transform: uppercase;
-    color: #ff8534
+    color: #ff8534;
 }
 
 #mainNav .navbar-nav>li.nav-item>a {
